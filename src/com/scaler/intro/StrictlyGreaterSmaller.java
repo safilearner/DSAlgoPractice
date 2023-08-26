@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class StrictlyGreaterSmaller {
 
     public static void main(String[] args) {
+        
         StrictlyGreaterSmaller strictlyGreaterSmaller = new StrictlyGreaterSmaller();
         ArrayList<Integer> inputList = new ArrayList<>();
         inputList.add(1);

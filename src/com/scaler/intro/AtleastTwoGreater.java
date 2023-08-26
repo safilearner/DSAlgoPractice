@@ -18,7 +18,6 @@ public class AtleastTwoGreater {
         for (int i = 0; i < result2.length; i++) {
             System.out.println(result2[i]);
         }
-
     }
 
     public int[] findAtleastTwoGreater(int[] A) {

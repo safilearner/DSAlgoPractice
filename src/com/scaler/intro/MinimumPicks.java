@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class MinimumPicks {
 
     public static void main(String[] args) {
+
         MinimumPicks minPicks = new MinimumPicks();
         ArrayList<Integer> inputList = new ArrayList<>();
         inputList.add(2);

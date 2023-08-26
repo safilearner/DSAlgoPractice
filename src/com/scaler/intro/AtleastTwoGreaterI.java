@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class AtleastTwoGreaterI {
 
     public static void main(String[] args) {
-
         AtleastTwoGreaterI atleastTwo = new AtleastTwoGreaterI();
 
         ArrayList<Integer> inputList1 = new ArrayList<>();

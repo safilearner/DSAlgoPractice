@@ -1,4 +1,4 @@
-package com.scaler.arrays;
+package com.scaler.arraysandlists;
 
 import java.util.ArrayList;
 
